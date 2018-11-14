@@ -31,4 +31,4 @@ practice_php_1     docker-php-entrypoint apac ...   Up      0.0.0.0:15000->80/tc
 
 Open following link on browsser.
 
-http://localshot:15000/index.php
+http://localhost:15000/index.php
